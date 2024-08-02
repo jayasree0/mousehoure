@@ -26,10 +26,10 @@ body::before {
      z-index: -1;
 }
 .container {
-     width: 1920px;
-     height: 1080px;
+     width: 600px;
+     height: 500px;
      display: flex;
-     gap: 0px;
+     gap: 15px;
 }
 .container .card {
      width: 20%;
